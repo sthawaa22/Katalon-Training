@@ -17,8 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('OWS/LoginOWS'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.click(findTestObject('Page_OWS/LandingPage/div_idcbr.sitih_menu-list-top'))
 
 WebUI.click(findTestObject('Page_OWS/span_XL Leads Management'))
