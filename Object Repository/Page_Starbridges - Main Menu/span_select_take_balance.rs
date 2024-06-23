@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_select_take_balance</name>
+   <tag></tag>
+   <elementGuidId>f5bb96a3-0bc2-4ea5-be88-4c182eebf485</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-icon.k-i-arrow-s</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(@class, 'k-widget k-dropdown k-header') and @aria-owns='LeaveRequestRuleID_listbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.k-icon >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e6c18a5f-e01a-41db-b55d-ff4e66d7ad72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>790030cc-91f2-4565-92b3-81abff34a09a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-s</value>
+      <webElementGuid>3776243e-1e1d-4de4-8939-d9fa38944a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1e8549f1-7023-4bd7-a123-282632d27868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addEditForm&quot;)/div[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-12&quot;]/fieldset[1]/div[@class=&quot;fieldset-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-12&quot;]/span[@class=&quot;k-widget k-dropdown k-header&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-s&quot;]</value>
+      <webElementGuid>87b901d8-411a-451c-9656-ad38ba9e0f5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='addEditForm']/div[2]/div[2]/div/fieldset/div[2]/div/div/div/div/div/span[4]/span/span[2]/span</value>
+      <webElementGuid>3463304b-c66c-43ad-be93-6ae6b09a9add</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Request Rule...'])[1]/following::span[2]</value>
+      <webElementGuid>4e6757d1-6597-41e4-ad9a-51c429d77057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Type'])[1]/following::span[7]</value>
+      <webElementGuid>78b0675a-426c-4067-9170-7fda0184e617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Take From Balance'])[1]/preceding::span[1]</value>
+      <webElementGuid>8fe21dc9-2468-4009-88ee-4e2dce20cf40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='select'])[2]/preceding::span[2]</value>
+      <webElementGuid>da0c4780-5b64-4bfb-8865-a3a2c71b433b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='select']/parent::*</value>
+      <webElementGuid>6e3d10b5-18bb-4e39-a242-8d0ac6020948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span</value>
+      <webElementGuid>b2dbf572-0679-46ed-b19f-dc50a27a9b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'select' or . = 'select')]</value>
+      <webElementGuid>f0bbe0c7-57ee-48ce-83e1-29d1026bfafa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

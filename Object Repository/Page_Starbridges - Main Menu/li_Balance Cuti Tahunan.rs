@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Balance Cuti Tahunan</name>
+   <tag></tag>
+   <elementGuidId>a3ff3e5b-2747-4287-b3c7-dab9ac839e85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.k-item.k-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[(text() = 'Balance Cuti Tahunan' or . = 'Balance Cuti Tahunan')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Balance Cuti Tahunan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>dff0d1e9-c3f7-4eaf-a988-c17835016577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>d6ad554e-8fc3-4771-ae5b-2411191e1ea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>33a04828-3da3-4a8c-a033-1cfc1d895aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>e5361cfc-6aea-404d-a807-cda12fed5d51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-item k-state-hover</value>
+      <webElementGuid>5b50fbbe-f623-4833-8f29-a17a2ec16dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-offset-index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f73c93a6-9b88-41e4-8237-e0899d735530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Balance Cuti Tahunan</value>
+      <webElementGuid>918236ab-48fa-4620-ac8e-04e81e7be909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EmployeeLeaveBalanceUID_listbox&quot;)/li[@class=&quot;k-item k-state-hover&quot;]</value>
+      <webElementGuid>c3a0a656-a18b-4842-97ce-3b125a7be7b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='EmployeeLeaveBalanceUID_listbox']/li</value>
+      <webElementGuid>975c3f4d-d86a-4ae1-b559-d8907d765547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='select'])[8]/following::li[1]</value>
+      <webElementGuid>1b1a8370-7ced-49dc-b5f1-294f60a7e032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select balance...'])[2]/following::li[1]</value>
+      <webElementGuid>923c6de2-35e5-4a1b-9313-2ed3cead803a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Balance Cuti Tahunan']/parent::*</value>
+      <webElementGuid>3ab5acf6-9908-4619-8214-76e0ad13dae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/ul/li</value>
+      <webElementGuid>407cd33f-606a-476d-8b51-9789db590fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Balance Cuti Tahunan' or . = 'Balance Cuti Tahunan')]</value>
+      <webElementGuid>cb1a23b4-2289-40e9-bc5e-2b0adea14462</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

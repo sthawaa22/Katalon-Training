@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menu_Outbound</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b0dca67e-1e38-4083-ad85-03929d82dccf</testCaseGuid>
+</TestCaseEntity>

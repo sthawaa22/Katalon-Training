@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Leave Transaction ESS</name>
+   <tag></tag>
+   <elementGuidId>72c1bb75-66d5-4c33-a7f7-82c30209c442</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;Leave Transaction ESS&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@name='Leave Transaction ESS']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Leave Transaction ESS&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>18647efe-c808-4db8-88bd-2c515ca7091e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>classForFunction sub-nav</value>
+      <webElementGuid>95f11ecb-c101-4576-bc10-712153428a35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Leave Transaction ESS</value>
+      <webElementGuid>8df3d5de-e866-481e-9bbd-c7f22ad4a82d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>283</value>
+      <webElementGuid>e50ef3ef-ea64-4847-bd48-d42396715f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>26769b77-181c-448e-8640-ed8eb73651b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax-begin</name>
+      <type>Main</type>
+      <value>RemovePrevData</value>
+      <webElementGuid>333e8fbf-f425-4fe6-8ed5-32cf59558a98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax-mode</name>
+      <type>Main</type>
+      <value>replace</value>
+      <webElementGuid>dc01bad5-7e95-4667-8836-959de434391b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax-update</name>
+      <type>Main</type>
+      <value>#result</value>
+      <webElementGuid>f4018015-3cd4-41ac-9686-9abf20fd869d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax-loading</name>
+      <type>Main</type>
+      <value>#Loading</value>
+      <webElementGuid>decd4bff-6378-4a62-9564-f1385eebea9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Application/Time/LeaveRequestTransactionESS</value>
+      <webElementGuid>dff3e068-91ca-4929-b718-db89358e641c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Leave Transaction ESS</value>
+      <webElementGuid>518635d2-bf5f-4adb-a06e-329ce0776b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-wrapper&quot;)/ul[@class=&quot;sidebar-nav&quot;]/li[3]/ul[@class=&quot;master-subnav&quot;]/li[3]/a[@class=&quot;classForFunction sub-nav&quot;]</value>
+      <webElementGuid>c25c30ee-f18c-4b7c-94a4-3f8037f419b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@name='Leave Transaction ESS']</value>
+      <webElementGuid>f6c273d3-6fca-4fe0-9c6e-d6340eb7a33a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar-wrapper']/ul/li[3]/ul/li[3]/a</value>
+      <webElementGuid>20f8b753-6cad-4c84-9f4c-4b41b06c11c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Leave Transaction ESS')]</value>
+      <webElementGuid>52e4c9e6-b98d-4df4-aa3c-628e4784d0be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Timesheet'])[1]/following::a[1]</value>
+      <webElementGuid>a7218444-10bc-4c61-a3ce-a845baa94b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attendance Correction'])[1]/following::a[2]</value>
+      <webElementGuid>5e98e48f-1264-474a-9e61-c6da4594f660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Attendance Report'])[1]/preceding::a[1]</value>
+      <webElementGuid>b7f2d6ff-5b43-46a9-8cb2-ca0e0dc13f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Leave'])[1]/preceding::a[2]</value>
+      <webElementGuid>983e7859-7d15-4c35-bf0a-06951574bc2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Leave Transaction ESS']/parent::*</value>
+      <webElementGuid>e22ea0eb-20cd-48df-ba9d-2f43c6f3e8ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Application/Time/LeaveRequestTransactionESS')]</value>
+      <webElementGuid>5ba7dd78-3524-4385-8333-6f8815a0379a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[3]/a</value>
+      <webElementGuid>11aaa9c9-a542-4caa-8753-fe7060756c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@name = 'Leave Transaction ESS' and @href = '/Application/Time/LeaveRequestTransactionESS' and (text() = 'Leave Transaction ESS' or . = 'Leave Transaction ESS')]</value>
+      <webElementGuid>c2c8bbaf-f13b-4c40-a645-f4acc927aac4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

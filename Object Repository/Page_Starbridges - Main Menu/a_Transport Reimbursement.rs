@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Transport Reimbursement</name>
+   <tag></tag>
+   <elementGuidId>e0f17ed6-1e7c-4256-a3bc-5dd9b18a58d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@name='Transport Reimbursement']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;Transport Reimbursement&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Transport Reimbursement&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7ecc56f0-d3f3-4bad-819e-c31c4f2ae811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>classForFunction sub-nav</value>
+      <webElementGuid>6af8b194-2d44-45ab-be7f-5532fc8b5c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Transport Reimbursement</value>
+      <webElementGuid>b6dbd48f-8749-460d-af91-f9a3e8699b2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>510</value>
+      <webElementGuid>bf70c946-cf21-4c0c-8ae7-62e819406f27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>644ea96a-99ab-4b74-be74-c9e2a9c9e616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax-begin</name>
+      <type>Main</type>
+      <value>RemovePrevData</value>
+      <webElementGuid>ff82e72c-7d8c-4c94-818e-3a9bfda46a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax-mode</name>
+      <type>Main</type>
+      <value>replace</value>
+      <webElementGuid>9aa6c0b2-22df-4a4d-a261-1ee5e0ad5247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax-update</name>
+      <type>Main</type>
+      <value>#result</value>
+      <webElementGuid>5b866e66-bd1c-408d-b4b2-b750b9be05bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax-loading</name>
+      <type>Main</type>
+      <value>#Loading</value>
+      <webElementGuid>256bfd2e-66fc-4408-83bd-ad048dc6b73b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Application/Component/TransportReimbursement</value>
+      <webElementGuid>d8e360e6-3ddd-4a9f-9bd2-89484ab0c8ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transport Reimbursement</value>
+      <webElementGuid>83cb0227-ef3b-46fc-be9e-1475ebfd9f0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-wrapper&quot;)/ul[@class=&quot;sidebar-nav&quot;]/li[4]/ul[@class=&quot;master-subnav&quot;]/li[7]/a[@class=&quot;classForFunction sub-nav&quot;]</value>
+      <webElementGuid>9b647dd9-ecdf-4d58-927b-e3094b023278</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@name='Transport Reimbursement']</value>
+      <webElementGuid>e9085ff4-7d57-4d6c-a034-c4417478f0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar-wrapper']/ul/li[4]/ul/li[7]/a</value>
+      <webElementGuid>65d9d7d6-4c73-4e99-a8e5-7c124b758774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Transport Reimbursement')]</value>
+      <webElementGuid>0d9a8ff2-8fd8-4e60-ae13-47f17d22ae47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Reimbursement Report'])[1]/following::a[1]</value>
+      <webElementGuid>3aef9e46-5ee3-4dd1-82ae-fa0fd83d24fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Reimbursement'])[1]/following::a[2]</value>
+      <webElementGuid>a633e321-bdd7-47e3-992e-cac57b0d8cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favorites'])[1]/preceding::a[4]</value>
+      <webElementGuid>ca35d8dc-f24f-402c-94e5-b6e6be3ca321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Favorites'])[1]/preceding::a[5]</value>
+      <webElementGuid>6c3e61af-a917-4dd6-a0f3-b4283f1ea3c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transport Reimbursement']/parent::*</value>
+      <webElementGuid>eff8ae50-acc4-4b98-a77b-fde57797ee56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Application/Component/TransportReimbursement')]</value>
+      <webElementGuid>4e528d98-185c-4967-a785-01e2749b9255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[7]/a</value>
+      <webElementGuid>57ab544a-db6e-4e90-9541-a37ac4fb608e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@name = 'Transport Reimbursement' and @href = '/Application/Component/TransportReimbursement' and (text() = 'Transport Reimbursement' or . = 'Transport Reimbursement')]</value>
+      <webElementGuid>edbd572a-a872-4bff-87cf-0d1785475b55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

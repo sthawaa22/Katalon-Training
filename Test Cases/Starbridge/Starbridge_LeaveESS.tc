@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>untuk mengajukan cuti di Starbridge</description>
+   <name>Starbridge_LeaveESS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f940d39-2a58-4b61-a83e-4ab233e4f593</testCaseGuid>
+</TestCaseEntity>

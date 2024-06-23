@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_XLHome Sales</name>
+   <tag></tag>
+   <elementGuidId>d49de8f6-43aa-411a-8dcb-fdead507655f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menuList']/div[2]/div[6]/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;XLHome Sales&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>266b51bc-265a-4d21-be54-6d041f3472d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>side-item-title</value>
+      <webElementGuid>7ed48383-6cc5-407f-8177-68d8b8da00e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>XLHome Sales</value>
+      <webElementGuid>78610244-833c-4309-8e4c-2d7652a010eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>XLHome Sales</value>
+      <webElementGuid>c73192a1-f323-4566-b242-d56d8f74e3ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menuList&quot;)/div[@class=&quot;menu-list-scroll open-menu-list&quot;]/div[@class=&quot;el-row el-row--flex menu-item sideItem keyboard-focus&quot;]/div[@class=&quot;side-item-content&quot;]/span[@class=&quot;side-item-title&quot;]</value>
+      <webElementGuid>280d3abb-d5dc-4091-a8e3-fc5c79186112</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menuList']/div[2]/div[6]/div[2]/span</value>
+      <webElementGuid>27f3e276-dc3b-46ce-b3b6-6ce51565475b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XLHome Apps'])[1]/following::span[1]</value>
+      <webElementGuid>83782f57-27b0-4322-be98-800991f6db74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XL Leads Management'])[1]/following::span[2]</value>
+      <webElementGuid>9650b734-303a-4ec2-85ed-da7a8b254a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manas'])[1]/preceding::span[1]</value>
+      <webElementGuid>eda30e5b-e0cc-47ae-afdc-6f79b6952018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Supervision'])[1]/preceding::span[2]</value>
+      <webElementGuid>167dc1e3-98e6-4089-a1af-f46259f0a72b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='XLHome Sales']/parent::*</value>
+      <webElementGuid>e5f6039f-6ccc-4423-ac4b-82e28a70919a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/span</value>
+      <webElementGuid>05c21464-aaa5-434c-a0c4-796965b68159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'XLHome Sales' and (text() = 'XLHome Sales' or . = 'XLHome Sales')]</value>
+      <webElementGuid>e4fc628c-49a9-4ce0-8f06-27ab52a4c5e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

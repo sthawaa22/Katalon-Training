@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>untuk mengajukan cuti di Starbridge</description>
+   <name>Starbridge_PersoanalLeave</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40cf2994-217d-4ef2-b765-25f702833807</testCaseGuid>
+</TestCaseEntity>

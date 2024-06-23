@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_select</name>
+   <tag></tag>
+   <elementGuidId>fc54b807-f4af-4ffe-b303-7281264b9f04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(@class, 'k-select') and @aria-controls='Period_dateview']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-select > span.k-icon.k-i-arrow-s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=listbox >> internal:text=&quot;select&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1dcfc30b-5d35-4a76-b944-58b4ec6560c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>78d9b9d5-e4d3-476e-b0fa-d0bc064a0ce0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-s</value>
+      <webElementGuid>3faa3284-66c6-4c13-8d69-60479d965f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3bf32e0b-842d-4f46-962f-df7dc57a615e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addEditForm&quot;)/div[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-7&quot;]/span[@class=&quot;k-widget k-dropdown k-header&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-focused k-state-hover&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-s&quot;]</value>
+      <webElementGuid>7099b318-f8d7-40d4-93ae-499834d6bc40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='addEditForm']/div/div[3]/div[2]/span/span/span[2]/span</value>
+      <webElementGuid>6221fdd7-8788-4878-af09-a88a20e31dd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Type..'])[1]/following::span[2]</value>
+      <webElementGuid>40e897f7-00d9-4814-ab68-a05d99c1a876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[2]/following::span[5]</value>
+      <webElementGuid>6dc97d99-7159-44e5-9e75-e43c2bda97e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Date'])[1]/preceding::span[1]</value>
+      <webElementGuid>6ca1cf77-28ef-41c6-b400-747e63f5f359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='select'])[2]/preceding::span[1]</value>
+      <webElementGuid>7b4941a9-c65c-4356-b453-fbe445060d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='select']/parent::*</value>
+      <webElementGuid>c6d7e9a4-37ed-4878-a318-30fcbe4bf638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span/span[2]/span</value>
+      <webElementGuid>1601be8c-9223-4f51-931b-5d000f02b240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'select' or . = 'select')]</value>
+      <webElementGuid>d55823a3-ec0a-474f-b95b-857b148dfd57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='addEditFormHeader']/div/div/div/div[2]/span/span/span/span</value>
+      <webElementGuid>5a322588-bdaf-4e8c-8f8f-ba8f85760fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Period'])[1]/following::span[4]</value>
+      <webElementGuid>ce095b93-fa77-4616-8107-8d08b29f01b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maximum number reached, your request cannot be approved'])[1]/following::span[4]</value>
+      <webElementGuid>6ea33d31-ef62-4a0c-988c-4e8f5ea18c29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Amount'])[1]/preceding::span[1]</value>
+      <webElementGuid>d34463c2-ec6e-47cc-b1ce-de32b2917136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Increase value'])[1]/preceding::span[2]</value>
+      <webElementGuid>474720f6-1098-4f1c-a30b-f009c3dc3aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span</value>
+      <webElementGuid>b8d92dc8-30cf-4c7f-b822-0bc7d19299d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
