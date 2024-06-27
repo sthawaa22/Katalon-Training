@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Menu_Report_Lead</name>
+   <name>Menu_AdminLeadManagement</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>ece18844-e7b1-4534-b1e0-7853958f6bfc</testCaseGuid>
+   <testCaseGuid>78bc81b4-43be-4a9e-ab15-b6ba99206c68</testCaseGuid>
 </TestCaseEntity>

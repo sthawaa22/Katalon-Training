@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Page_OWS/span_XL Leads Management'))
 
 WebUI.click(findTestObject('Page_OWS/Lead_Management/span_Report'))
 
-WebUI.delay(10)
+WebUI.delay(5)
 
 WebUI.takeFullPageScreenshot()
 
