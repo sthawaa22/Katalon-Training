@@ -25,7 +25,7 @@ WebUI.navigateToUrl('https://107d-sg-studio.teleows.com/dspcas/login?request-sou
 
 WebUI.setText(findTestObject('Object Repository/Page_OWS/Account_username'), 'idcbr.sitih')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_OWS/Account_password'), 'fzqqY0qJjYS1i07tuOpRUA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_OWS/Account_password'), 'vOoj4tQjAWVcc4QPmm6ttw==')
 
 WebUI.click(findTestObject('Page_OWS/loginButton'))
 
